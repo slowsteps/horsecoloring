@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.BitmapData;			public class Drawing extends BitmapData {						public function Drawing() {			// constructor code		}	}	}

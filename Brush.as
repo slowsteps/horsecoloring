@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;	import flash.geom.ColorTransform;				public class Brush extends MovieClip {						public var isBrush:Boolean = true						public function Brush(inBrushtip:Number=0) {						if (inBrushtip == 0) this.addChild(new Blackbrushtip());			if (inBrushtip == 1) this.addChild(new Eraser());					}							}	}
