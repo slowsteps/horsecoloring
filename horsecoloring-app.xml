@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <application xmlns="http://ns.adobe.com/air/application/3.5">
     <id>com.wungi.horseachiever</id>
-    <versionNumber>1.2.2</versionNumber>
+    <versionNumber>1.2.3</versionNumber>
     <filename>Horse achiever</filename>
     <description></description>
     <!-- To localize the description, use the following format for the description element.
@@ -41,7 +41,7 @@
     </icon>
     <supportedLanguages>en</supportedLanguages>
     <iPhone>
-        <requestedDisplayResolution>standard</requestedDisplayResolution>
-        <InfoAdditions><![CDATA[<key>UIDeviceFamily</key><array><string>2</string></array>]]></InfoAdditions>
+        <requestedDisplayResolution>high</requestedDisplayResolution>
+        <InfoAdditions><![CDATA[<key>UIDeviceFamily</key><array><string>1</string></array>]]></InfoAdditions>
     </iPhone>
 </application>
