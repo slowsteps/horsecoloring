@@ -41,8 +41,8 @@
     </icon>
     <supportedLanguages>en</supportedLanguages>
     <iPhone>
-        <requestedDisplayResolution>standard</requestedDisplayResolution>
-        <InfoAdditions><![CDATA[<key>UIDeviceFamily</key><array><string>2</string></array>]]></InfoAdditions>
+        <requestedDisplayResolution>high</requestedDisplayResolution>
+        <InfoAdditions><![CDATA[<key>UIDeviceFamily</key><array><string>1</string><string>2</string></array>]]></InfoAdditions>
     </iPhone>
     <extensions>
         <extensionID>com.adobe.ane.productStore</extensionID>
