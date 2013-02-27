@@ -1,1 +1,1 @@
-﻿package  {		import flash.display.MovieClip		public class Message extends MovieClip {		public function Message()  {			trace("hello")			credit.visible =false		}					}	}
+﻿package  {		import flash.display.MovieClip		public class Message extends MovieClip {		public function Message()  {			trace("hello")			//credit.visible =false		}					}	}
